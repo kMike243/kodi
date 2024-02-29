@@ -1,0 +1,12 @@
+    <advancedsettings>
+    <cache>
+        <buffermode>1</buffermode>
+        <memorysize>31457280</memorysize>
+        <readfactor>10</readfactor>
+    </cache>
+    <network>
+        <curlclienttimeout>20</curlclienttimeout>
+        <curllowspeedtime>10</curllowspeedtime>
+        <curlretries>3</curlretries>
+    </network>
+    </advancedsettings>
