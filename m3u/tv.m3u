@@ -1,0 +1,281 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="DE: 3sat" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/3sat-de.png" group-title="Standart",3sat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="DE: 13th Street" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/13th-street-de.png" group-title="SKY/Filme",13TH Street
+plugin://plugin.video.vavooto/?name=13TH+STREET
+#EXTINF:-1 tvg-id="DE: Animal Planet" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/animal-planet-de.png" group-title="Dokumentation",Animal Planet
+plugin://plugin.video.vavooto/?name=ANIMAL+PLANET
+#EXTINF:-1 tvg-id="DE: ANIXE Serie" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/anixe-de.png" group-title="SKY/Filme",Anixe
+plugin://plugin.video.vavooto/?name=ANIXE
+#EXTINF:-1 tvg-id="DE: ARD alpha" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/ard-alpha-de.png" group-title="Standart",ARD alpha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="DE: Das Erste" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/ard-de.png" group-title="Standart",ARD Das Erste
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-id="DE: ARTE" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/arte-de.png" group-title="Standart",Arte
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 tvg-id="DE: Auto Motor und Sport" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/auto-motor-und-sport-de.png" group-title="Sport",Auto Motor Sport
+plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
+#EXTINF:-1 tvg-id="DE: AXN Black" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/axn-black-de.png" group-title="SKY/Filme",AXN Black
+plugin://plugin.video.vavooto/?name=AXN
+#EXTINF:-1 tvg-id="DE: AXN White" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/axn-white-de.png" group-title="SKY/Filme",AXN White
+plugin://plugin.video.vavooto/?name=SONY+CHANNEL
+#EXTINF:-1 tvg-id="DE: Bergblick" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/bergblick-at.png" group-title="Standart",Bergblick
+plugin://plugin.video.vavooto/?name=BERGBLICK
+#EXTINF:-1 tvg-id="DE: BonGusto" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/bon-gusto-de.png" group-title="Standart",BonGusto
+plugin://plugin.video.vavooto/?name=BON+GUSTO
+#EXTINF:-1 tvg-id="DE: BR Nord" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/br-de.png" group-title="Standart",BR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="DE: Cartoon Network" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/cartoon-network-de.png" group-title="Kinder",Cartoon Network
+plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
+#EXTINF:-1 tvg-id="DE: Boomerang" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Standart",Cartoonito
+plugin://plugin.video.vavooto/?name=CARTOONITO
+#EXTINF:-1 tvg-id="DE: Comedy Central" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/comedy-central-de.png" group-title="SKY/Filme",Comedy Central
+plugin://plugin.video.vavooto/?name=VIVA
+#EXTINF:-1 tvg-id="DE: Crime+Investigation" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/crime-and-investigation-de.png" group-title="Dokumentation",Crime + Investigation
+plugin://plugin.video.vavooto/?name=A%26E
+#EXTINF:-1 tvg-id="DE: Curiosity" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/curiosity-channel-de.png" group-title="Dokumentation",Curiosity
+plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
+#EXTINF:-1 tvg-id="DE: DAZN 1" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn1-de.png" group-title="Sport",DAZN 1
+plugin://plugin.video.vavooto/?name=DAZN+1
+#EXTINF:-1 tvg-id="DE: DAZN 2" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn2-de.png" group-title="Sport",DAZN 2
+plugin://plugin.video.vavooto/?name=DAZN+2
+#EXTINF:-1 tvg-id="DE: Deluxe Music" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/deluxe-music-de.png" group-title="Musik",DELUXE MUSIC
+plugin://plugin.video.vavooto/?name=DELUXE+MUSIC
+#EXTINF:-1 tvg-id="DE: Servus TV" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/df1-de.png" group-title="Standart",DF1
+plugin://plugin.video.vavooto/?name=SERVUS+TV
+#EXTINF:-1 tvg-id="DE: Discovery" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/discovery-channel-de.png" group-title="Dokumentation",Discovery
+plugin://plugin.video.vavooto/?name=DISCOVERY
+#EXTINF:-1 tvg-id="DE: Disney Channel" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/disney-channel-de.png" group-title="Kinder",Disney Channel
+plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
+#EXTINF:-1 tvg-id="DE: DMAX" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dmax-de.png" group-title="Dokumentation",DMAX
+plugin://plugin.video.vavooto/?name=DMAX
+#EXTINF:-1 tvg-id="DE: eSPORTS1" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/esports1-de.png" group-title="Sport",eSports1
+plugin://plugin.video.vavooto/?name=ESPORTS+1
+#EXTINF:-1 tvg-id="DE: Euronews" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/euro-news-int.png" group-title="Standart",Euronews
+plugin://plugin.video.vavooto/?name=EURONEWS
+#EXTINF:-1 tvg-id="DE: Eurosport 1" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/eurosport-1-de.png" group-title="Sport",Eurosport 1
+plugin://plugin.video.vavooto/?name=EUROSPORT+1
+#EXTINF:-1 tvg-id="DE: Eurosport 2" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/eurosport-2-de.png" group-title="Sport",Eurosport 2
+plugin://plugin.video.vavooto/?name=EUROSPORT+2
+#EXTINF:-1 tvg-id="DE: GEO" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/geo-de.png" group-title="Dokumentation",Geo HD
+plugin://plugin.video.vavooto/?name=GEO+TV
+#EXTINF:-1 tvg-id="DE: Heimatkanal" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/heimatkanal-de.png" group-title="Standart",Heimatkanal
+plugin://plugin.video.vavooto/?name=HEIMATKANAL
+#EXTINF:-1 tvg-id="DE: HGTV" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hgtv-de.png" group-title="Standart",HGTV
+plugin://plugin.video.vavooto/?name=HGTV
+#EXTINF:-1 tvg-id="DE: History" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/history-de.png" group-title="Dokumentation",History
+plugin://plugin.video.vavooto/?name=HISTORY
+#EXTINF:-1 tvg-id="DE: HR" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hr-de.png" group-title="Standart",HR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
+#EXTINF:-1 tvg-id="DE: Kabel Eins" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kabel-eins-de.png" group-title="Standart",Kabel 1
+plugin://plugin.video.vavooto/?name=KABEL+1
+#EXTINF:-1 tvg-id="DE: Kabel Eins CLASSICS" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kabel-eins-classics-de.png" group-title="SKY/Filme",Kabel 1 Classics
+plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
+#EXTINF:-1 tvg-id="DE: Kabel Eins Doku" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kabel-eins-doku-de.png" group-title="Dokumentation",Kabel 1 Doku
+plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
+#EXTINF:-1 tvg-id="DE: KiKA" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kika-de.png" group-title="Kinder",KiKA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-id="DE: Kinowelt" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kinowelt-de.png" group-title="SKY/Filme",Kinowelt
+plugin://plugin.video.vavooto/?name=KINOWELT
+#EXTINF:-1 tvg-id="DE: MDR Sachsen" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/mdr-de.png" group-title="Standart",MDR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
+#EXTINF:-1 tvg-id="DE: More Than Sports TV" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/morethansports.png" group-title="Sport",More than Sports TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="DE: Motorvision" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/motorvision-tv-de.png" group-title="Sport",Motorvision
+plugin://plugin.video.vavooto/?name=MOTORVISION
+#EXTINF:-1 tvg-id="DE: MTV" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/mtv-de.png" group-title="Musik",MTV
+plugin://plugin.video.vavooto/?name=MTV
+#EXTINF:-1 tvg-id="DE: N24 Doku" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/n24-doku-de.png" group-title="Dokumentation",N24 Doku
+plugin://plugin.video.vavooto/?name=N24+DOKU
+#EXTINF:-1 tvg-id="DE: National Geographic" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/national-geographic-de.png" group-title="Dokumentation",Nat Geo
+plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
+#EXTINF:-1 tvg-id="DE: National Geographic WILD" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nat-geo-wild-de.png" group-title="Dokumentation",Nat Geo Wild
+plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
+#EXTINF:-1 tvg-id="DE: NBA TV" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" group-title="Sport",NBA TV
+plugin://plugin.video.vavooto/?name=NBA+TV
+#EXTINF:-1 tvg-id="DE: NDR Hamburg" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/ndr-de.png" group-title="Standart",NDR
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-id="DE: Nick Jr." tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nick-jr-de.png" group-title="Kinder",Nick Junior
+plugin://plugin.video.vavooto/?name=NICK+JUNIOR
+#EXTINF:-1 tvg-id="DE: Nicktoons" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nick-toons-de.png" group-title="Kinder",Nicktoons
+plugin://plugin.video.vavooto/?name=NICKTOONS
+#EXTINF:-1 tvg-id="DE: N-TV" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/ntv-de.png" group-title="Dokumentation",N-TV
+plugin://plugin.video.vavooto/?name=N%2DTV
+#EXTINF:-1 tvg-id="DE: ONE" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/one-de.png" group-title="Standart",ONE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-id="AT: ORF 1" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/orf1-at.png" group-title="ORF",ORF 1
+plugin://plugin.video.vavooto/?name=ORF+1
+#EXTINF:-1 tvg-id="AT: ORF 2" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/orf2-at.png" group-title="ORF",ORF 2
+plugin://plugin.video.vavooto/?name=ORF+2
+#EXTINF:-1 tvg-id="DE: Phoenix" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/phoenix-de.png" group-title="Standart",PHOENIX
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="DE: ProSieben" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/pro-sieben-de.png" group-title="Standart",ProSieben
+plugin://plugin.video.vavooto/?name=PRO+7
+#EXTINF:-1 tvg-id="DE: ProSieben FUN" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/pro-sieben-fun-de.png" group-title="Standart",ProSieben Fun
+plugin://plugin.video.vavooto/?name=PRO+7+FUN
+#EXTINF:-1 tvg-id="DE: ProSieben MAXX" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/pro-sieben-maxx-de.png" group-title="Standart",ProSieben MAXX
+plugin://plugin.video.vavooto/?name=PRO+7+MAXX
+#EXTINF:-1 tvg-id="CH: Puls 8" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Puls_acht_Logo.png/799px-Puls_acht_Logo.png" group-title="Standart",Puls 8
+plugin://plugin.video.vavooto/?name=ACHT
+#EXTINF:-1 tvg-id="DE: rbb Berlin" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rbb-de.png" group-title="Standart",RBB
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:-1 tvg-id="DE: Romance TV" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/romance-tv-de.png" group-title="Standart",Romance TV
+plugin://plugin.video.vavooto/?name=ROMANCE+TV
+#EXTINF:-1 tvg-id="DE: RTL" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-de.png" group-title="Standart",RTL
+plugin://plugin.video.vavooto/?name=RTL
+#EXTINF:-1 tvg-id="DE: RTL ZWEI" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-zwei-de.png" group-title="Standart",RTL 2
+plugin://plugin.video.vavooto/?name=RTL+2
+#EXTINF:-1 tvg-id="DE: RTL Crime" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-crime-de.png" group-title="SKY/Filme",RTL Crime
+plugin://plugin.video.vavooto/?name=RTL+CRIME
+#EXTINF:-1 tvg-id="DE: RTL Living" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-living-de.png" group-title="Standart",RTL Living
+plugin://plugin.video.vavooto/?name=RTL+LIVING
+#EXTINF:-1 tvg-id="DE: NITRO" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nitro-de.png" group-title="Standart",RTL Nitro
+plugin://plugin.video.vavooto/?name=RTL+NITRO
+#EXTINF:-1 tvg-id="DE: RTL Passion" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-passion-de.png" group-title="Standart",RTL Passion
+plugin://plugin.video.vavooto/?name=RTL+PASSION
+#EXTINF:-1 tvg-id="DE: RTLup" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-up-de.png" group-title="Standart",RTL UP
+plugin://plugin.video.vavooto/?name=RTL+UP
+#EXTINF:-1 tvg-id="DE: SAT.1" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sat-1-de.png" group-title="Standart",Sat 1
+plugin://plugin.video.vavooto/?name=SAT+1
+#EXTINF:-1 tvg-id="DE: SAT.1 emotions" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sat-1-emotions-de.png" group-title="Standart",Sat 1 Emotions
+plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
+#EXTINF:-1 tvg-id="DE: SAT.1 GOLD" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sat-1-gold-de.png" group-title="Standart",Sat 1 Gold
+plugin://plugin.video.vavooto/?name=SAT+1+GOLD
+#EXTINF:-1 tvg-id="DE: Silverline" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/silverline-de.png" group-title="SKY/Filme",Silverline
+plugin://plugin.video.vavooto/?name=SILVERLINE
+#EXTINF:-1 tvg-id="DE: SIXX" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sixx-de.png" group-title="Standart",Sixx
+plugin://plugin.video.vavooto/?name=SIXX
+#EXTINF:-1 tvg-id="DE: Sky Atlantic" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-atlantic-de.png" group-title="SKY/Filme",Sky Atlantic
+plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
+#EXTINF:-1 tvg-id="DE: Sky Bundesliga" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png" group-title="Sport",Sky Bundesliga
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA
+#EXTINF:-1 tvg-id="DE: Sky Cinema Action" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-cinema-action-de.png" group-title="SKY/Filme",Sky Cinema Action
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
+#EXTINF:-1 tvg-id="DE: Sky Cinema Best Of" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-cinema-best-of-de.png" group-title="SKY/Filme",Sky Cinema Best of
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+BEST+OF
+#EXTINF:-1 tvg-id="DE: Sky Cinema Classics" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-cinema-classics-de.png" group-title="SKY/Filme",Sky Cinema Classics
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
+#EXTINF:-1 tvg-id="DE: Sky Cinema Family" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-cinema-family-de.png" group-title="SKY/Filme",Sky Cinema Family
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
+#EXTINF:-1 tvg-id="DE: Sky Cinema Fun" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-cinema-fun-de.png" group-title="SKY/Filme",Sky Cinema Fun
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
+#EXTINF:-1 tvg-id="DE: Sky Cinema Premieren" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-cinema-premieren-de.png" group-title="SKY/Filme",Sky Cinema Premieren
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
+#EXTINF:-1 tvg-id="DE: Sky Cinema Premieren +24" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-cinema-premieren-plus24-de.png" group-title="SKY/Filme",Sky Cinema Premieren +24
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN+%2B24
+#EXTINF:-1 tvg-id="DE: Sky Cinema Special" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-cinema-special-de.png" group-title="SKY/Filme",Sky Cinema Special
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
+#EXTINF:-1 tvg-id="DE: Sky Cinema Thriller" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-cinema-thriller-de.png" group-title="SKY/Filme",Sky Cinema Thriller
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+THRILLER
+#EXTINF:-1 tvg-id="DE: Sky Crime" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-crime-de.png" group-title="SKY/Filme",Sky Crime
+plugin://plugin.video.vavooto/?name=SKY+CRIME
+#EXTINF:-1 tvg-id="DE: Sky Documentaries" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-documentaries-uk.png" group-title="Dokumentation",Sky Documentaries
+plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
+#EXTINF:-1 tvg-id="DE: Sky Krimi" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-krimi-de.png" group-title="SKY/Filme",Sky Krimi
+plugin://plugin.video.vavooto/?name=SKY+KRIMI
+#EXTINF:-1 tvg-id="DE: Sky Nature" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-nature-uk.png" group-title="Dokumentation",Sky Nature
+plugin://plugin.video.vavooto/?name=SKY+NATURE
+#EXTINF:-1 tvg-id="DE: Sky One" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-one-de.png" group-title="SKY/Filme",Sky One
+plugin://plugin.video.vavooto/?name=SKY+1
+#EXTINF:-1 tvg-id="DE: Sky Replay" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-replay-de.png" group-title="SKY/Filme",Sky Replay
+plugin://plugin.video.vavooto/?name=SKY+REPLAY
+#EXTINF:-1 tvg-id="DE: Sky Sport F1" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-f1-de.png" group-title="Sport",Sky Sport Formel 1
+plugin://plugin.video.vavooto/?name=SKY+SPORT+F1
+#EXTINF:-1 tvg-id="DE: Sky Sport Golf" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-golf-de.png" group-title="Sport",Sky Sport Golf
+plugin://plugin.video.vavooto/?name=SKY+SPORT+GOLF
+#EXTINF:-1 tvg-id="DE: Sky Sport Mix" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-mix-de.png" group-title="Sport",Sky Sport Mix
+plugin://plugin.video.vavooto/?name=SKY+SPORT+MIX
+#EXTINF:-1 tvg-id="DE: Sky Sport News" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-news-de.png" group-title="Sport",Sky Sport News
+plugin://plugin.video.vavooto/?name=SKY+SPORT+NEWS
+#EXTINF:-1 tvg-id="DE: Sky Sport Premier League" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-premier-league-de.png" group-title="Sport",Sky Sport Premier League
+plugin://plugin.video.vavooto/?name=SKY+SPORT+PREMIER+LEAGUE
+#EXTINF:-1 tvg-id="DE: Sky Sport Tennis" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-tennis-de.png" group-title="Sport",Sky Sport Tennis
+plugin://plugin.video.vavooto/?name=SKY+SPORT+TENNIS
+#EXTINF:-1 tvg-id="DE: Sky Sport Top Event" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-de.png" group-title="Sport",Sky Sport Top Event
+plugin://plugin.video.vavooto/?name=SKY+SPORT+TOP+EVENT
+#EXTINF:-1 tvg-id="DE: Spiegel Geschichte" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/spiegel-geschichte-de.png" group-title="Dokumentation",Spiegel Geschichte
+plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
+#EXTINF:-1 tvg-id="DE: SPORTDIGITAL FUSSBALL" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sport-Digital_hd.svg/640px-Sport-Digital_hd.svg.png" group-title="Sport",Sport digital
+plugin://plugin.video.vavooto/?name=SPORTDIGITALL+FUSSBALL
+#EXTINF:-1 tvg-id="DE: SPORT1" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sport1-de.png" group-title="Sport",Sport1
+plugin://plugin.video.vavooto/?name=SPORT1
+#EXTINF:-1 tvg-id="DE: SPORT1+" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sport1-plus-de.png" group-title="Sport",Sport1+
+plugin://plugin.video.vavooto/?name=SPORT1%2B
+#EXTINF:-1 tvg-id="DE: SR" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sr-fernsehen-de.png" group-title="Standart",SR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+#EXTINF:-1 tvg-id="DE: Super RTL" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-super-de.png" group-title="Standart",Super RTL
+plugin://plugin.video.vavooto/?name=SUPER+RTL
+#EXTINF:-1 tvg-id="DE: SWR BW" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/swr-de.png" group-title="Standart",SWR
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-id="DE: Syfy" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/syfy-de.png" group-title="SKY/Filme",Syfy
+plugin://plugin.video.vavooto/?name=SYFY
+#EXTINF:-1 tvg-id="DE: Tagesschau24" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/tagesschau24-de.png" group-title="Dokumentation",Tagesschau 24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="DE: TELE 5" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/tele-5-de.png" group-title="Standart",Tele 5
+plugin://plugin.video.vavooto/?name=TELE+5
+#EXTINF:-1 tvg-id="DE: TLC" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/tlc-de.png" group-title="Standart",TLC
+plugin://plugin.video.vavooto/?name=TLC
+#EXTINF:-1 tvg-id="DE: TOGGO plus" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/toggo-plus-de.png" group-title="Kinder",Toggo Plus
+plugin://plugin.video.vavooto/?name=TOGGO+PLUS
+#EXTINF:-1 tvg-id="DE: Universal TV" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/universal-tv-de.png" group-title="SKY/Filme",Universal Channel
+plugin://plugin.video.vavooto/?name=UNIVERSAL
+#EXTINF:-1 tvg-id="DE: VOX" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/vox-de.png" group-title="Standart",Vox
+plugin://plugin.video.vavooto/?name=VOX
+#EXTINF:-1 tvg-id="DE: VOXup" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/vox-up-de.png" group-title="Standart",Vox UP
+plugin://plugin.video.vavooto/?name=VOX+UP
+#EXTINF:-1 tvg-id="DE: Warner TV Comedy" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/warner-tv-comedy-de.png" group-title="SKY/Filme",WarnerTV Comedy
+plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
+#EXTINF:-1 tvg-id="DE: Warner TV Film" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/warner-tv-film-de.png" group-title="SKY/Filme",WarnerTV Film
+plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
+#EXTINF:-1 tvg-id="DE: Warner TV Serie" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/warner-tv-serie-de.png" group-title="SKY/Filme",WarnerTV Serie
+plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
+#EXTINF:-1 tvg-id="DE: WDR Dortmund" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/wdr-de.png" group-title="Standart",WDR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
+#EXTINF:-1 tvg-id="DE: WELT" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/welt-de.png" group-title="Standart",Welt
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://welt.personalstream.tv/v1/master.m3u8
+#EXTINF:-1 tvg-id="DE: Welt der Wunder" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/welt-der-wunder-de.png" group-title="Dokumentation",WELT DER WUNDER
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 tvg-id="DE: ZDF" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/zdf-de.png" group-title="Standart",ZDF
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="DE: ZDFinfo" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/zdf-info-de.png" group-title="Standart",ZDF info
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="DE: ZDFneo" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/zdf-neo-de.png" group-title="Standart",ZDF neo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
